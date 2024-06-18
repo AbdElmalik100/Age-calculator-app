@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+    * {
+        @apply box-border;
+    }
+    body {
+        @apply font-Poppins;
+    }
+    input {
+        @apply outline-none;
+    }
+}
