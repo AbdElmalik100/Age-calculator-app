@@ -1,4 +1,4 @@
-# Room homepage
+# Age calculator app
 
 Responsive Front-End Mentor Challenge (HTML + CSS + JS)
 
